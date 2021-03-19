@@ -14,8 +14,8 @@ knitr::opts_chunk$set(echo = TRUE)
 require(mlbench)
 ```
 
-The goal of this R program is to use several classification models for the Breast Cancer dataset and
-then combining the output from the models in an ensemble fashion. 
+#The goal of this R program is to use several classification models for the Breast Cancer dataset and
+#then combining the output from the models in an ensemble fashion. 
 
 #Load Data
 ```{r}
